@@ -21,5 +21,6 @@ visualise Country wise, Region wise and Overall Co2 Emission on Earth.
 
 _Details_:
 
-Name : Dwarampudi Sri Siva Lakshmana Reddy 
-RollNo : 20A31A05G8
+#Name : Dwarampudi Sri Siva Lakshmana Reddy 
+
+#RollNo : 20A31A05G8
